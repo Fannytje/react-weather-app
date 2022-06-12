@@ -56,3 +56,7 @@ export default function Weather() {
     return form;
   }
 }
+
+<footer>
+  <a href="https://github.com/Fannytje/react-weather-app">Open-source code</a> by Fanny Nordberg.
+</footer>

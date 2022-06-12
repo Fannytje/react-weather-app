@@ -10,9 +10,10 @@ root.render(
   <StrictMode>
     <h1>Weather App</h1>
     <Weather />
+    <div>
+      <a href="https://github.com/Fannytje/react-weather-app" target="_blank" rel="noreferrer">Open-source code</a> by Fanny Nordberg.
+    </div>
   </StrictMode>
 );
 
-<footer>
-  <a href="#">Open-source code</a> by Fanny Nordberg.
-</footer>
+
